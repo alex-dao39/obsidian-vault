@@ -1,0 +1,6 @@
+- An app to track progress of working out.
+- An app to help healing, give life advice to busy worker ultilizing AI
+- My own custom chat bot/AI running local
+- My own information lookup, document questioning bot/AI model (tiktok model free opensource project)
+- My own personal branding page hosted in a remote server
+- [[Pomodoro Dungeon]]

@@ -1,0 +1,2 @@
+- blogs:
+	- [Entrepreneurial mindset](https://prashantchaudhari.com/category/entrepreneurial-mindset/)
