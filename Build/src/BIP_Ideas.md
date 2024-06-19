@@ -6,5 +6,6 @@
 - A block-puzzle game clone
 - correct grammar browser extensions
 - movies recommendation AI wrapper
+- a web/app to give "động lực" in a short amount of time (1 minute for example)
 - [[Pomodoro Dungeon]]
 - [[A 1000 words per day note]]
