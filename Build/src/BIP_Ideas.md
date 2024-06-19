@@ -3,4 +3,8 @@
 - My own custom chat bot/AI running local
 - My own information lookup, document questioning bot/AI model (tiktok model free opensource project)
 - My own personal branding page hosted in a remote server
+- A block-puzzle game clone
+- correct grammar browser extensions
+- movies recommendation AI wrapper
 - [[Pomodoro Dungeon]]
+- [[A 1000 words per day note]]

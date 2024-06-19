@@ -7,3 +7,5 @@
 - [Screenshot Xnapper](https://xnapper.com/)
 - [Vercel](https://vercel.com/)
 - [Upstash](https://upstash.com/)
+- [ShipFast Web](https://shipfa.st/#)
+- [ShipFast SwiftUI](https://www.shipthat.app/?ref=shipfast)
