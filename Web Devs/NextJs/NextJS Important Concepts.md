@@ -1,0 +1,3 @@
+- [[NextJS Terminology]]
+- [[NextJS Routing]]
+- [[NextJS Caching]]
