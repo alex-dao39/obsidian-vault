@@ -7,5 +7,6 @@
 - correct grammar browser extensions
 - movies recommendation AI wrapper
 - a web/app to give "động lực" in a short amount of time (1 minute for example)
+- Discord/telegram chat bot (for anything, AI related stuff?)
 - [[Pomodoro Dungeon]]
 - [[A 1000 words per day note]]
