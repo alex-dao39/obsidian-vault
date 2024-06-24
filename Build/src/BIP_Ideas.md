@@ -8,5 +8,6 @@
 - movies recommendation AI wrapper
 - a web/app to give "động lực" in a short amount of time (1 minute for example)
 - Discord/telegram chat bot (for anything, AI related stuff?)
+- A simple wrapper of existing library (anything is fine) -> purpose is to get used to marketing, sales, research markets (etc)
 - [[Pomodoro Dungeon]]
 - [[A 1000 words per day note]]
