@@ -3,4 +3,4 @@
 - [Hacker News](https://news.ycombinator.com/)
 - [Starter story](https://www.starterstory.com/)
 - [Hugging Face AI models](https://huggingface.co/)
-- 
+- [Acquire](https://app.acquire.com/)
