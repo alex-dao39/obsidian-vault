@@ -1,0 +1,1 @@
+- Spend 1 day a month to make a 10 minutes video recording your progress/learning.

@@ -1,4 +1,5 @@
 - [[BIP Blogs]]
 - [[BIP_Websites]]
 - [[BIP_Ideas]]
+- [[BIP_Notes]]
 - [[Tools]]
