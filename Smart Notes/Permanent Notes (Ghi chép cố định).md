@@ -1,0 +1,5 @@
+- `Describe`: Convert your [[Fleeting Notes (Ghi chép ngắn)]] and [[Literature Notes (Ghi chép tài liệu)]] into permanent noes. These notes should be clear, self-contained and understandable on their own. Link them to other related notes to build a network of interconnected ideas.
+- `Practice`:  Set aside regular time to review your fleeting and literature notes. Refine and expand on these notes to create permanent notes. Ensure each note is concise and directly link to other notes in your system.
+***
+- `Mô tả`: Chuyển đổi những ghi chép ngắn và ghi chép tài liệu sang ghi chép cố định. Các ghi chép này nên rõ ràng, tự chứa và dễ hiểu. Liên kết chúng với các ghi chép khác có liên quan để xây dựng một mạng lưới các ý tưởng liên kết.
+- `Tập luyện`: Dành thời gian thường xuyên để xem lại các ghi chép ngắn và ghi chép tài liệu. TỈnh chỉnh và mở rộng các ghi chép này để tạo ra các ghi chép cố định. Đảm bảo mỗi ghi chép đều ngắn gọn và liên kết trực tiếp với các ghi chép liên quan khác trong hệ thống của bạn. 

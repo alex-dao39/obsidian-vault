@@ -1,0 +1,7 @@
+- [[Fleeting Notes (Ghi chép ngắn)]]
+- [[Literature Notes (Ghi chép tài liệu)]]
+- [[Permanent Notes (Ghi chép cố định)]]
+- [[Link and Organize notes]]
+- Other resources:
+	- [How to take smart notes](https://www.goodreads.com/book/show/34507927-how-to-take-smart-notes)
+	- [Tuanmon](https://tuanmon.com/phuong-phap-ghi-chu-zettelkasten/)

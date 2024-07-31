@@ -1,0 +1,5 @@
+- `Description`: Use a system (such as [[Zettelkasten method]] ) to oranize your notes. Each note should have a unique identifier and be linked to other notes. This creates a web of interconnected knowledge.
+- `Practice`: Use a digital tool like Obsidian, or a physical index card system to organize your notes. Regularly review and update the connections between notes to reflect your evolving understanding.
+***
+- `Mô tả`: Sử dụng một hệ thống (như phương pháp Zettelkasten) để tổ chức các ghi chép. Mỗi ghi chép nên có một mã định danh duy nhất và được liên kết với các ghi chép khác.  Điều này tạo nên một mạng lưới các kiến thức liên kết.
+- `Tập luyện`: Sử dụng một công cụ kỹ thuật số như Obsidian hoặc một hệ thống thẻ vật lý để tổ chức các ghi chép của bạn. Thường xuyên xem lại và cập nhật các liên kết giữa các ghi chép để phản ánh sự hiểu biết của bạn đang phát triển.
