@@ -2,3 +2,4 @@
 - [[ERC-20]]
 - [[Blockchain Securities]]
 - [[Solidity best practices]]
+- [[Blockchain Projects]]
