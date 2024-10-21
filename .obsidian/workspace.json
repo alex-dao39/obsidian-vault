@@ -8,95 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20c71082f680744f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1d9070ae157f021",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity Patterns/Solidity Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dee1dfb9dd8928e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "61b70b33812e05b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solidity Patterns/Secure Ethers Transfer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dab878f641596ac4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity Patterns/Secure Ethers Transfer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73c4ebfacfa1d96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity Patterns/Solidity Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1bf590ed1aae1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Solidity Patterns/Checks-Effects-Interactions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9e1f4d1221444142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Technical Terms.md",
                 "mode": "source",
                 "source": false
@@ -104,19 +20,43 @@
             }
           },
           {
-            "id": "b2cbb94ff0d6937e",
+            "id": "0ee660b319efad30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Terms.md",
+                "file": "Blockchain fundementals/Bitcoin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4506c8ca15b51415",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain fundementals/Etherum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94a16f64a15dbbbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blockchain fundementals/Etherum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical Terms.md",
+                "file": "Blockchain fundementals/Etherum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical Terms.md",
+                "file": "Blockchain fundementals/Etherum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical Terms.md"
+                "file": "Blockchain fundementals/Etherum.md"
               }
             }
           }
@@ -243,26 +183,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2cbb94ff0d6937e",
+  "active": "94a16f64a15dbbbd",
   "lastOpenFiles": [
-    "Solidity Security/Radical Asymmetry.md",
+    "Blockchain fundementals/Bitcoin.md",
+    "Blockchain fundementals/Etherum.md",
+    "Blockchain fundementals/Solana.md",
     "Technical Terms.md",
+    "Blockchain fundementals",
     "Solidity Security/Reentrancy Attacks.md",
-    "Index.md",
-    "Contract Implementation/MultiSend Contract.md",
-    "Solidity Document/Send And Receive Ethers.md",
-    "Solidity Document/Fallback functions.md",
-    "Solidity Patterns/Solidity Patterns.md",
+    "Solidity Security/Radical Asymmetry.md",
+    "Solidity Security",
     "Solidity Patterns/Withdraw pattern & Send pattern.md",
+    "Solidity Patterns/Solidity Patterns.md",
     "Solidity Patterns/Secure Ethers Transfer.md",
     "Solidity Patterns/Guard Check Pattern.md",
     "Solidity Patterns/Checks-Effects-Interactions.md",
-    "Optimistic Accounting.md",
-    "Technical Terms 1.md",
-    "Contract Implementation",
-    "Solidity Document",
-    "Solidity Security",
     "Solidity Patterns",
-    "Welcome.md"
+    "Solidity Document/Send And Receive Ethers.md",
+    "Solidity Document/Fallback functions.md",
+    "Solidity Document",
+    "Optimistic Accounting.md",
+    "Index.md",
+    "Contract Implementation/MultiSend Contract.md",
+    "Contract Implementation",
+    "Web Devs/Reacts/Document References/React Terminology.md",
+    "Web Devs/NextJs/Document References/NextJS Terminology.md",
+    "Web Devs/NextJs/Document References/NextJS Routing.md",
+    "Web Devs/Reacts/React Important Concepts.md",
+    "Web Devs/NextJs/NextJS Important Concepts.md",
+    "Web Devs/Reacts/Document References",
+    "Web Devs/NextJs/Document References",
+    "Web Devs/Web Devs.md",
+    "Web Devs/Reacts",
+    "Web Devs/NextJs",
+    "Web Devs",
+    "Tools.md",
+    "Smart Notes/Zettelkasten method.md",
+    "Smart Notes/SmartNote_Index.md",
+    "Smart Notes/Permanent Notes (Ghi chép cố định).md"
   ]
 }
