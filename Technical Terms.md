@@ -9,3 +9,8 @@
 - Nonce: A number that is used once ^nonce
 - Collision resistance
 - Checksum
+- Determinism
+- Ethash: thuật toán POW của ETH 1.0, được thiết kế để chống lại các ASIC chuyên dụng ^ethash
+- ASIC: phần cứng chuyên dụng, được xây dựng với mục đích giải quyết các bài toàn cho POW để mine ra 1 block mới (e.g, bitcoin mining) ^ASIC
+- DAG: đồ thị có hướng không chu trình ^DAG
+- 
