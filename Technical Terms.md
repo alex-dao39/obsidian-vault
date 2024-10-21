@@ -1,0 +1,11 @@
+- EOA: External Owned Account ^EOA
+- Payable: Payble ^payable
+- Adversary: đối thủ, kẻ thủ ^advesary
+- Analogue: tương đồng ^analogue
+- Mitigated: giảm nhẹ ^mitigated
+- Cryptographic primitive: mật mã nguyên thuỷ, thuật toán hoặc phương thức cơ bản trong mật mã học ^cryptographic-primitive
+- Hash
+- Salt
+- Nonce: A number that is used once ^nonce
+- Collision resistance
+- Checksum
