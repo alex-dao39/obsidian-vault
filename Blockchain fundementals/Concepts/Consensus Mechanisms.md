@@ -1,0 +1,5 @@
+- [[Proof Of Work]]
+- [[Proof Of Stake]]
+- [[Delegated Proof Of Stake ]]
+- [[Proof Of Authority]]
+- [[Proof Of History]]

@@ -1,16 +1,17 @@
 - EOA: External Owned Account ^EOA
-- Payable: Payble ^payable
-- Adversary: đối thủ, kẻ thủ ^advesary
+- Adversary: đối thủ, kẻ thủ ^adversary
 - Analogue: tương đồng ^analogue
 - Mitigated: giảm nhẹ ^mitigated
 - Cryptographic primitive: mật mã nguyên thuỷ, thuật toán hoặc phương thức cơ bản trong mật mã học ^cryptographic-primitive
-- Hash
-- Salt
+- Radical Asymmetry: đối xứng bất triệt để ^radical-asymmetry
+- Hash: hàm băm, biến 1 input tuỳ ý về độ dài về 1 output có độ dài cố định ^hash
+- Salt: chuỗi kí tự ngẫu nhiên được thêm vào trước hoặc sau dữ liệu trước khi áp dụng hàm băm ^salt
 - Nonce: A number that is used once ^nonce
-- Collision resistance
-- Checksum
-- Determinism
+- Collision resistance: kháng va chạm, thuộc tính quan trọng trong hàm băm nhằm đảm bảo rằng không có hai đầu vào khác nhau nào có cùng một output. ^collision-resistance
+- Checksum: kĩ thuật dùng để kiểm tra tính toàn vẹn của dữ liệu bằng cách kiểm tra đầu ra hash của dữ liệu đầu vào ^checksum
+- Determinism: tính tất định, đảm bào rằng với cùng một đầu vào, trải qua cùng một phép tính/quá trình sẽ luôn có cùng một đầu ra  ^determinism
 - Ethash: thuật toán POW của ETH 1.0, được thiết kế để chống lại các ASIC chuyên dụng ^ethash
 - ASIC: phần cứng chuyên dụng, được xây dựng với mục đích giải quyết các bài toàn cho POW để mine ra 1 block mới (e.g, bitcoin mining) ^ASIC
 - DAG: đồ thị có hướng không chu trình ^DAG
-- 
+- arbitrary: dữ liệu không có định dạng, quy định cụ thể  ^arbitrary
+-  Uniformity across degrees and range: sự phân bố đồng đều hoặc sự đồng nhất của một thuộc tính trên nhiều cấp độ và khoảng giá trị ^ba84fb
